@@ -1,0 +1,8 @@
+.container-fluid {
+    border: 4px solid blueviolet;
+    border-radius: 20px;
+}
+.container {
+    border: 4px solid rgb(8, 171, 171);
+    border-radius: 20px;
+}
